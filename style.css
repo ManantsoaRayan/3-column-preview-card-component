@@ -54,6 +54,7 @@ button:hover {
 
 #left-section button {
   color: hsl(31, 75%, 68%);
+  top: -10px;
 }
 
 #middle-section {
